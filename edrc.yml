@@ -8,4 +8,4 @@ eagle:
     - file: hardware/comms_module/Communications Board - Bottom.brd
       dru: oshpark-2layer
     - file: hardware/bandage_module/Bandage FPC.brd
-      dru: default
+      dru: oshpark-2layer
