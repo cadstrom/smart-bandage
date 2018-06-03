@@ -6,6 +6,6 @@ eagle:
     - file: hardware/comms_module/Communications Board - Top.brd
       dru: oshpark-4layer
     - file: hardware/comms_module/Communications Board - Bottom.brd
-      dru: oshpark-4layer
+      dru: oshpark-2layer
     - file: hardware/bandage_module/Bandage FPC.brd
       dru: default
