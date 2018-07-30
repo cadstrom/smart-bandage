@@ -5,5 +5,3 @@ eagle:
       dru: oshpark-4layer
     - file: hardware/comms_module/Communications Board - Bottom.brd
       dru: oshpark-2layer
-    - file: hardware/comms_module/Communications Board.brd
-      dru: oshpark-4layer
