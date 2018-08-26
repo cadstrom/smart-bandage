@@ -1,4 +1,5 @@
 version: 1
+
 eagle:
   drc:
     - file: hardware/comms_module/Communications Board - Top.brd
