@@ -1,5 +1,5 @@
 # Smart Bandage
-[![design rule check status](https://edrc.me/api/v1/user/Mobius5150/project/smart-bandage/img/status.svg)](https://edrc.me/g/Mobius5150/smart-bandage)
+[![design rule check status](https://cadstrom.io/api/v1/user/Mobius5150/project/smart-bandage/img/status.svg)](https://edrc.me/g/Mobius5150/smart-bandage)
 
 An intelligent bandage that monitors wound conditions to aid in rapid recovery of serious or chronic wounds.
 
