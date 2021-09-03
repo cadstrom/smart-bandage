@@ -4,4 +4,5 @@ eagle:
     - file: hardware/comms_module/Communications Board.brd
       dru: oshpark-4layer
   erc:
+    - file: hardware/comms_module/Communications Board - Top.sch
     - file: hardware/comms_module/Communications Board.sch
