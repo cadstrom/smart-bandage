@@ -2,8 +2,7 @@ version: 1
 eagle:
   drc:
     - file: hardware/comms_module/Communications Board.brd
-      dru:
-        file: 'custom.dru'
+      dru: oshpark-4layer
     - file: hardware/comms_module/Communications Board - Top.brd
       dru:
         file: 'custom.dru'
