@@ -1,16 +1,13 @@
 version: 1
 eagle:
   drc:
-    - file: hardware/bandage_module/Bandage FPC.brd
-      dru:
-        file: default
-    - file: hardware/comms_module/Communications Board - Bottom.brd
-      dru:
-        file: default
-    - file: hardware/comms_module/Communications Board - Top.brd
-      dru:
-        file: default
     - file: hardware/comms_module/Communications Board.brd
       dru:
-        file: default
+        file: oshpark-4layer
+    - file: hardware/comms_module/Communications Board - Top.brd
+      dru:
+        file: oshpark-4layer
+    - file: hardware/comms_module/Communications Board - Bottom.brd
+      dru:
+        file: oshpark-4layer
   erc: []
