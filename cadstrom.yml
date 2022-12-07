@@ -1,15 +1,10 @@
-version: 1
-eagle:
-  drc:
-    - file: hardware/comms_module/Communications Board.brd
-      dru:
-        file: oshpark-4layer
+version: 1.1
+projects:
+  - name: Smart Bandage
+    type: eagle
+    boards: 
     - file: hardware/comms_module/Communications Board - Top.brd
       dru:
         file: oshpark-4layer
-    - file: hardware/comms_module/Communications Board - Bottom.brd
-      dru:
-        file: oshpark-4layer
-  erc:
-    - file: hardware/comms_module/Communications Board - Top.sch
-    - file: hardware/comms_module/Communications Board - Bottom.sch
+    schematics:
+      - file: hardware/comms_module/Communications Board - Top.sch
