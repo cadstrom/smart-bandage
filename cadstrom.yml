@@ -1,9 +1,9 @@
 version: 1.1
 project:
   type: eagle
-  boards: 
-  - file: hardware/comms_module/Communications Board - Top.brd
-    dru:
-      file: oshpark-4layer
+  boards:
+    - file: hardware/comms_module/Communications Board - Top.brd
+      dru:
+        file: custom.dru
   schematics:
     - file: hardware/comms_module/Communications Board - Top.sch
