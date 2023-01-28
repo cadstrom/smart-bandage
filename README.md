@@ -11,3 +11,4 @@ The bandage module is composed of two PCBs stacked on top of each other, with th
 
 ### Bottom Board (Power Management)
 [![hardware/comms_module/Communications Board - Bottom.brd from EDRC.me](https://edrc.me/api/v1/user/Mobius5150/project/smart-bandage/build/80/img/file/hardware%2Fcomms_module%2FCommunications%20Board%20-%20Bottom.png)](https://edrc.me/g/Mobius5150/smart-bandage)
+
